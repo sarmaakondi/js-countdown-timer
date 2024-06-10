@@ -6,9 +6,10 @@
 
 body {
   background-image: url("background.jpg");
+  background-size: cover;
   background-color: transparent;
   background-blend-mode: multiply;
-  font-family: "Poppins", sans-serif;
+  font-family: "JetBrains Mono", sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
